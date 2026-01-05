@@ -2,7 +2,7 @@
 Bienvenida/o a mi perfil de GitHub.
 
 ## Sobre mí
-Soy estudiante de Ingeniería Informática (3er año).
+Soy estudiante de Ingeniería Informática.
 Actualmente me encuentro fortaleciendo mi formación en estructuras de datos, algoritmos y diseño de software, aplicados en proyectos académicos.
 
 ## 💻 Tecnologías que utilizo
